@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-weight: 'Roboto', san-serif;
+    background: hsl(234, 30%, 14%);
+}
